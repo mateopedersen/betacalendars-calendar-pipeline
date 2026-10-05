@@ -1,0 +1,9 @@
+/_build/
+/deps/
+/doc/
+/cover/
+/erl_crash.dump
+*.ez
+*.tar
+.env
+.elixir_ls/
